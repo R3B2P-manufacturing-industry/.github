@@ -1,8 +1,5 @@
-Copyright (c) 2026 PUPQC - Manufacturing Group
+## License
 
-All rights reserved.
+This project is proprietary and was developed as part of an academic thesis project by PUPQC students.
 
-This software was developed as part of an academic thesis project.
-Unauthorized copying, distribution, modification, sublicensing,
-or commercial use of this software is prohibited without
-explicit written permission from the authors.
+Unauthorized copying, modification, distribution, or commercial use is prohibited without permission from the authors.
